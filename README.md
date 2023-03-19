@@ -28,6 +28,8 @@ This tool for applying 2 Factor Athuntification on your id
 
 ➤ pip install bs4
 
+➤ pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
 ➤ rm -rf 2Factor
 
 ➤ git clone https://github.com/Hamii-king-06/2Factor
