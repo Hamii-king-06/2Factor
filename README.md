@@ -42,4 +42,8 @@ This tool for applying 2 Factor Athuntification on your id
 
 ![Screenshot_20230105-192615_com termux](https://github.com/Hamii-king-06/2Factor/blob/main/Screenshot_20230310-184139.png)
 
+
+# Owner WhatsApp
+
+
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923155912839?text=Itx+HAMII+KING) <br><br>
